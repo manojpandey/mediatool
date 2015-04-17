@@ -4,14 +4,23 @@
 ###1. Name and Contact Info
 
 Name: Manoj Pandey
+
 Email: manojpandey1996@gmail.com
+
 Contact No: +919910089606
+
 Website: http://manojpandey.co.nr
+
 Blog:  https://namespacestd.wordpress.com/
+
 Github: http://github.com/manojpandey
+
 IM service and username: Skype, Username: manojpandey1996
+
 Location (State, Country): New Delhi, India
+
 Time Zone: Indian Standard Time(IST) or [UTC +05:30]
+
 
 ###2. Title and Aim of the Project
 	"Social Media Wall"
@@ -31,115 +40,134 @@ The third column shows how the project dates/timelines are associated with GSoC 
 
 >Present - April 26
 Researching on the project idea. Checking the possibility of integrating with other social media.
- **Community Bonding Period soon**
+ 
+ >**Community Bonding Period soon**
  
 ---
 
 >April 27 - May 3
 Getting familiar with assigned mentor(s) and discuss the questions I might have so far. Discussions about the project details and meeting dates with mentor(s).d
-**Community Bonding Period**
+
+>**Community Bonding Period**
 
 --- 
 >May 4 - May 10
 More discussions about details of the project, make changes of project plans if needed.
 Brush up existing skills needed for the project.
  Milestone 1 in progress
-**Community Bonding Period**
+
+>**Community Bonding Period**
 
 ---
 >**May 11 - May 17**
 Setting up the whole environment. Making changes to the coding timeline, if any after discussing with the mentor
 Milestone 1 in progress 
-**Community Bonding Period**
+
+>**Community Bonding Period**
 
 ---
 >**May 17 - May 24**
 Making the initial version of the app with the decided structure and schema in Django.
  Milestone 1 in progress 
-**Community Boding Period ends**
+
+>**Community Boding Period ends**
 
 ---
 >**May 25 - May 31**
 Discuss the API structure of the application  and the implementation of the progress with mentor.
-**Work officially begins**
+
+>**Work officially begins**
 
 --- 
 >**June 1 - June 7**
 Testing the initial app with the feature of getting media from a hashtag.
  Milestone 1 in progress
-**Work Period**
+
+>**Work Period**
 
 ---
 >**June 8 - June 14**
 Work on the design part of the application and test the application made so far with
 discussion on progress with mentor.
  Milestone 1 check point
-**Work Period**
+
+>**Work Period**
 
 ---
 >**June 15 - June 21**
 Extracting the content for the website using django rest framework and python-social-auth
  Milestone 2 in progress
-**Work Period**
+
+>**Work Period**
 
 ---
 >**June 22 - June 28**
 Preparing for the mid-term report. Discuss with mento(s). Document on changes made and do code style checking on the codes done so far. 
 Milestone 2 check point
-**Work Period & Mid-term report**
+
+>**Work Period & Mid-term report**
 
 ---
 >**June 29 - July 5**
 Adding Asynchronous JS calls for providing the ability to fecth media as long as the user is intended 
  Milestone 3 in progress
-**Work Period**
+
+>**Work Period**
 
 ---
 >**June 30 - July 6**
 Testing all of the implementations of the project. Discuss progress with mentor.
 Milestone 3 check point
-**Work Period**
+
+>**Work Period**
 
 ---
 >**July 6 - July 12**
 Providing ability to moderate the content being displayed on the wall. Filtering the content on specific basis.
 Milestone 4 in progress
-**Work Period**
+
+>**Work Period**
 
 ---
 >**July 13 - July 19**
 Testing all of the implementations of the project. Discuss progress with mentor.
 Milestone 4 check point
-**Work Period**
+
+>**Work Period**
 
 ---
 >**July 20 - July 26**
 Generating the mobile app with the API endpoints using Ionic framework.
  Milestone 5 in progress
-**Work period**
+ 
+>**Work period**
 
 ---
 >**July 27 - August 2**
 Fixing problems with code styles and testing all of the implements of this project. Start documentation. Discuss progress with mentor.
 Milestone 5 check point
-**Work period**
+
+>**Work period**
 
 ---
 >**August 3 - August 9**
 Documentation and preparing for the final report. Finishing unfinished parts, final checks on codes and documentation.
  Milestone 6 and 7 in progress 
-**Suggested Pencils Down date**
+
+>**Suggested Pencils Down date**
 
 ---
 >**August 10 - August 16**
  This time period is reserved in case of any unexpected issues. Discuss progress with mentor.
 Milestone 6 and 7 check point 
-**Firm Pencils Down date**
+
+>**Firm Pencils Down date**
 
 ---
 >**August 17 – August 24**
 Finalizing GsoC 2015
-**Student Coding Period Ends**
+
+>**Student Coding Period Ends**
 
 ---
 
